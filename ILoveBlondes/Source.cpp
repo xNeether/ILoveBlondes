@@ -7,7 +7,10 @@ int main() {
 
 	std::cout << "ALEX E GAYYYY";
 
-	std::cou << "cel mai gay";
+	std::cout << "cel mai gay ?";
+
+	int gay;
+	std::cin >> gay;
 
 	return 0;
 }
