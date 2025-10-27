@@ -1,20 +1,7 @@
 #include <iostream>
 #include <cstring>
 
-enum CommandType {
-	CREATE_TABLE,
-	DROP_TABLE,
-	DISPLAY_TABLE,
-	CREATE_INDEX,
-	DROP_INDEX,
-	INSERT,
-	DELETE,
-	SELECT,
-	UPDATE,
-	EXIT,
-	UNKNOWN
-};
-
+/*
 CommandType getCommandType(std::string command) {
 	if (command == "CREATE TABLE") return CREATE_TABLE;
 	else if (command == "DROP TABLE") return DROP_TABLE;
@@ -29,3 +16,4 @@ CommandType getCommandType(std::string command) {
 	else return UNKNOWN;
 }
 
+*/
